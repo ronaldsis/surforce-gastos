@@ -1,0 +1,1 @@
+Proyecto para desarrollar sistema de gestión de gastos usando Zend Framework
